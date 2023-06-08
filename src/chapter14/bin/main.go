@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"headfirstgo/src/chapter14"
+	"github.com/DaviRain-Su/headfirstgo/src/chapter14"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package chapter7
 
 import (
 	"fmt"
-	"headfirstgo/src/chapter5/datafile"
+	"github.com/DaviRain-Su/headfirstgo/src/chapter5/datafile"
 	"log"
 )
 

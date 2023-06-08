@@ -2,7 +2,7 @@ package datafile
 
 import (
 	"bufio"
-	"headfirstgo/src/chapter12"
+	"github.com/DaviRain-Su/headfirstgo/src/chapter12"
 	"strconv"
 )
 

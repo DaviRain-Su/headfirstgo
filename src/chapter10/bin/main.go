@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"headfirstgo/src/chapter10/calendar"
+	"github.com/DaviRain-Su/headfirstgo/src/chapter10/calendar"
 	"log"
 )
 

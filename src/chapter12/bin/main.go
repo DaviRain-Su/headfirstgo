@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"headfirstgo/src/chapter5/datafile"
+	"github.com/DaviRain-Su/headfirstgo/src/chapter5/datafile"
 	"io/ioutil"
 	"log"
 	"os"

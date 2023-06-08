@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"headfirstgo/src/chapter11"
+	"github.com/DaviRain-Su/headfirstgo/src/chapter11"
 )
 
 func playList(device chapter11.Player, songs []string) {
